@@ -6,5 +6,5 @@ console.log({ Hey: 'hi', Bi: 'bye' });
 console.table({ Hey: 'hi', Bi: 'bye' });
 console.warn('This is wrong');
 console.timeEnd('Check TIme');
-console.assert(98>189, 'This is not possible');
+console.assert(98 > 189, 'This is not possible');
 console.error('This is error');

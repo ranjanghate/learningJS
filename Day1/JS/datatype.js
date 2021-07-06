@@ -1,41 +1,41 @@
 // Primitive Datatype in JS
 
-  // String 
+// String 
 let name = 'Ranjan';
 name = "Ranjan";
 name = `Ranjan`;
 console.log(name);
-  // Concate string
-console.log("Hey "+name)
+// Concate string
+console.log("Hey " + name)
 console.log(typeof (name));
 
-  // Number
+// Number
 let x = 25;
-console.log(x*2 + x/5 + x-2); 
+console.log(x * 2 + x / 5 + x - 2);
 
-  // Bool
+// Bool
 let check = false;
 console.log(check);
 console.log(typeof (check));
 
-  // Null
+// Null
 let n = null;
 console.log(n);
 console.log(typeof (n));
 
-  // Undefine
+// Undefine
 let u = undefined;
 console.log(u);
 console.log(typeof (u));
 
 // Reference DataType
 
-  // Array
-  const arr = [1, 2, 3, 4, false]
-  console.log(arr)
-  console.log(typeof arr)
+// Array
+const arr = [1, 2, 3, 4, false]
+console.log(arr)
+console.log(typeof arr)
 
-  // Object Literals
+// Object Literals
 let marks = {
   raju: 25,
   rahul: 17,
@@ -45,13 +45,13 @@ console.log(marks);
 console.table(marks);
 console.log(typeof marks);
 
-  // Functions
+// Functions
 function fun() {
-  
+
 }
 console.log(typeof fun)
 
-  // Date
+// Date
 date = new Date();
 console.log(date);
 console.log(typeof date);

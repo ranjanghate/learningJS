@@ -25,6 +25,6 @@ console.log(x);
 
 {
   let num = 'sixth';
-  console.log(num); 
+  console.log(num);
   //const scope is block level
 }
