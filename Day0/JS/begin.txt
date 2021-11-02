@@ -1,0 +1,8 @@
+Javascript is single threaded synchronus language
+
+1) single threaded means Javascript can only execute one command at a time
+2) synchronus means one at a time i.e. one line of code is being executed at time in order the code appears
+3) synchronus single threaded means javascript can only execute one command at a time and in a specific order ,i.e means it will 
+   execute next line once the current line executed
+
+If you're executing a JavaScript block of code on a page then no other JavaScript on that page will currently be executed.
