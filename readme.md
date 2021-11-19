@@ -47,3 +47,7 @@
 ## Day-11
 
   Learned Event Loop and Promise
+
+## Day-12
+
+  Learned functional programming, high order functions , working of JS engine and 'this' keyword.
