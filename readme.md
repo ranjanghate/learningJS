@@ -31,3 +31,7 @@
 ## Day-7
 
   Learned Arrow functions and ES6 Classes.
+
+## Day-8
+
+  Learned window object, variable scopes and 'undefine'.
