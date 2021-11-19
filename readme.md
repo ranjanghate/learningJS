@@ -23,3 +23,7 @@
 ## Day-5
 
   Learned Event listener and local storage.
+
+## Day-6
+
+  Learned Javascript object, prototype and prototype inheritance.
