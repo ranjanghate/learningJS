@@ -1,6 +1,6 @@
 // Manipulating DOM using JS
 // window is JS global object
-
+// Array.form() converts html collection to array
 //  All window property and functions
 // alert, prompt, confirm, innerHeight, innerWidth, scrollX, scrollY, location, history, go
 
@@ -26,5 +26,9 @@ a = location.toString();
 
 location.href = 'https://www.google.com/';  // redirects to google.com
 
+
+// document.links to fetch all link from document
+// document.images
+// document.scripts
 // window.history or history
 // history.go(-1) or any integer 
