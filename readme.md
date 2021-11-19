@@ -43,3 +43,7 @@
 ## Day-10
 
   Learned callbacks, javascript functions, setTimeout with closure.
+
+## Day-11
+
+  Learned Event Loop and Promise
