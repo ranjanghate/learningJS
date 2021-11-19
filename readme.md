@@ -39,3 +39,7 @@
 ## Day-9
 
   Learned block scope, closures, let and const and Timeout
+
+## Day-10
+
+  Learned callbacks, javascript functions, setTimeout with closure.
