@@ -51,3 +51,7 @@
 ## Day-12
 
   Learned functional programming, high order functions , working of JS engine and 'this' keyword.
+
+## Day-13
+
+  Learned Generators and Iterators
