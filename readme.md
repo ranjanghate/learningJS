@@ -19,3 +19,7 @@
 ## Day-4
 
   Learned HTML element creation/ removing, DOM selection and traversing
+
+## Day-5
+
+  Learned Event listener and local storage.
