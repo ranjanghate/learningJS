@@ -35,3 +35,7 @@
 ## Day-8
 
   Learned window object, variable scopes and 'undefine'.
+
+## Day-9
+
+  Learned block scope, closures, let and const and Timeout
