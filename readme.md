@@ -27,3 +27,7 @@
 ## Day-6
 
   Learned Javascript object, prototype and prototype inheritance.
+
+## Day-7
+
+  Learned Arrow functions and ES6 Classes.
